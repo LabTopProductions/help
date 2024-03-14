@@ -44,7 +44,7 @@
     "lint-staged": "^13.1.2",
     "markdownlint": "^0.27.0",
     "markdownlint-cli": "^0.32.2",
-    "postcss": "^8.4.17",
+    "postcss": "^8.4.31",
     "postcss-import": "^14.1.0",
     "postcss-loader": "^7.0.2",
     "postcss-mixins": "^9.0.2",
